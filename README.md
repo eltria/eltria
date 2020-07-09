@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Golang/C++
+- 🌱 I’m currently learning Search Engine
+- 💬 Ask me about ACG
+
+
 <!--
 **eltria/eltria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
